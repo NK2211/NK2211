@@ -1,16 +1,47 @@
-## Hi there 👋
+Navaneeth Krishnan
 
-<!--
-**NK2211/NK2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Software Systems Engineer | Research Engineer
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering student focused on software development, AI-assisted systems, applied research, technical documentation, and engineering problem solving.
+ Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ MOWAERS / BAND
+
+Wearable health monitoring platform integrating biosignal monitoring, AI-assisted analysis, personalized health intelligence, and healthcare-oriented software systems.
+
+ Techlance
+
+AI-assisted engineering collaboration platform combining project intelligence, collaboration workflows, AI integration, and software platform development.
+
+ Smart Digital Water Distribution Unit (DWD)
+
+Offline-first IoT-enabled water distribution system integrating authentication workflows, embedded control systems, local data management, and utility automation concepts.
+
+ Areas of Interest
+
+* Software Engineering
+* Full Stack Development
+* Artificial Intelligence
+* Research & Development
+* Technical Documentation
+* Computer Networking
+* System Design
+* Applied Research
+* Technology Innovation
+
+ Technical Skills
+
+* Full Stack Development
+* Software Development
+* Artificial Intelligence
+* Database Systems
+* API Development
+* Technical Writing
+* Patent Documentation
+* Research Writing
+* LaTeX Documentation
+* Computer Networking
+
+Current Focus
+
+Strengthening software engineering expertise, contributing to research and innovation projects, developing AI-assisted systems, improving technical documentation practices, and preparing engineering solutions for research, collaboration, and industry applications.
