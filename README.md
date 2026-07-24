@@ -24,7 +24,7 @@ Computer Science Engineering student focused on **software development**, **prod
 
 </div>
 
-> Icons above cover the core stack across full-stack dev, embedded/IoT work, and documentation tooling (LaTeX). Swap in/out via [skillicons.dev](https://skillicons.dev) to match your exact stack.
+
 
 <br/>
 
@@ -98,8 +98,6 @@ Offline-first **IoT water distribution system**
 
 </div>
 
-> Replace `NK2211` in the stats URLs above with your actual GitHub username to activate these live cards.
-
 <br/>
 
 ## 🐍 Contribution Snake
@@ -110,7 +108,7 @@ Offline-first **IoT water distribution system**
 
 </div>
 
-> This animated snake eats your contribution graph. Requires a one-time GitHub Actions workflow — see [Platane/snk](https://github.com/Platane/snk) for the 5-minute setup (I can generate the exact workflow file for you if you'd like).
+>
 
 <br/>
 
